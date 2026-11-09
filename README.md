@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Nuhaid 👋</h1>
-<h3 align="center">Backend & Infrastructure Engineer · Go · C · Cloud-native systems</h3>
+<h3 align="center">Backend & AI Engineer · Go · C · Cloud-native systems</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nuhaid-sami07/"><img src="https://img.shields.io/badge/LinkedIn-Nuhaid%20Sami-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
